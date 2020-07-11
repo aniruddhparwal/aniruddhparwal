@@ -1,4 +1,7 @@
 ### Hi there 👋
+### 🔭 I’m currently working on Search based COVID-19 Website 
+### 🌱 I’m currently learning ReactJS
+### 👯 I’m looking to collaborate on ReactJS Project
 
 <!--
 **aniruddhparwal/aniruddhparwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
