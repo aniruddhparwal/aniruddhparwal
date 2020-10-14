@@ -3,7 +3,8 @@
 ### 🌱 I’m currently learning ReactJS
 ### 👯 I’m looking to collaborate on ReactJS Project
 <img src="https://github-readme-stats.vercel.app/api?username=aniruddhparwal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-[![trophy](https://github-profile-trophy.vercel.app/?username=aniruddhparwal&theme=onedark)](https://aniruddhparwal.github.io)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aniruddhparwal&theme=onedark)](https://github.com/aniruddhparwal)
+
 
 <!--
 **aniruddhparwal/aniruddhparwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
