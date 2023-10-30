@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aniruddh Parwal</h1>
-<h3 align="center">Upcoming FullStack Developer</h3>
+<h3 align="center">SDE - 1 | FullStack Developer</h3>
 
 
 
