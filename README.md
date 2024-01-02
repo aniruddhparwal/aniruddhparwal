@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React, Ui/Ux**
 
-- 👨‍💻 Some of my old projects are available at [https://aniruddhparwal.github.io](https://aniruddhparwal.github.io)
+- 👨‍💻 Some of my old projects are available at [https://www.aniruddhparwal.com](https://www.aniruddhparwal.com)
 
 - 💬 Ask me about **React, JavaScript**
 
